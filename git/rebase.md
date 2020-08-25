@@ -1,6 +1,6 @@
 # Rebase
 
-#### Rebasing a fork
+## Rebasing a fork
 
 ```bash
 # Add the remote, call it "upstream":
