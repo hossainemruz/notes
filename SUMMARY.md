@@ -14,6 +14,7 @@
 
 ## Kubernetes
 
+* [Custom Resources](kubernetes/custom-resources.md)
 * [Tips & Tricks](kubernetes/untitled/README.md)
   * [Commands](kubernetes/untitled/commands/README.md)
     * [Log](kubernetes/untitled/commands/log.md)
