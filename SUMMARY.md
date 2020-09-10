@@ -59,3 +59,7 @@
 
 * [Open API](misc/open-api.md)
 
+---
+
+* [VS Code](vs-code.md)
+
