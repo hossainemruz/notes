@@ -7,6 +7,7 @@
 * [Basics](go/untitled.md)
 * [How To?](go/how-to.md)
 * [Tools & Libraries](go/tools-and-libraries.md)
+* [Tutorials](go/tutorials.md)
 * [Go Modules](go/go-modules.md)
 
 ## Docker
