@@ -10,6 +10,8 @@
 * [Tutorials](go/tutorials.md)
 * [Go Modules](go/go-modules.md)
 * [Design Patterns](go/design-patterns.md)
+* [Guidelines](go/guidelines/README.md)
+  * [Code Review and Comments](go/guidelines/code-review-and-comments.md)
 
 ## Docker
 
