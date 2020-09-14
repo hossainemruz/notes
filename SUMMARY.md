@@ -9,6 +9,7 @@
 * [Tools & Libraries](go/tools-and-libraries.md)
 * [Tutorials](go/tutorials.md)
 * [Go Modules](go/go-modules.md)
+* [Design Patterns](go/design-patterns.md)
 
 ## Docker
 
