@@ -66,5 +66,6 @@
 
 ---
 
+* [Terminal](terminal.md)
 * [VS Code](vs-code.md)
 
