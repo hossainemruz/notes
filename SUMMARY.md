@@ -19,6 +19,7 @@
 
 ## Kubernetes
 
+* [Concepts](kubernetes/concepts.md)
 * [Custom Resources](kubernetes/custom-resources.md)
 * [Tips & Tricks](kubernetes/untitled/README.md)
   * [Commands](kubernetes/untitled/commands/README.md)
