@@ -66,6 +66,7 @@
 
 ## MISC
 
+* [Parameters vs Arguments](misc/parameters-vs-arguments.md)
 * [Open API](misc/open-api.md)
 
 ---
