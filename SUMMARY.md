@@ -66,6 +66,7 @@
 
 ## MISC
 
+* [Development Patterns](misc/development-patterns.md)
 * [Useful Github Apps/Actions](misc/useful-github-apps-actions.md)
 * [Parameters vs Arguments](misc/parameters-vs-arguments.md)
 * [Open API](misc/open-api.md)
