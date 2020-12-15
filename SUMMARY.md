@@ -36,6 +36,7 @@
     * [Cross namespaced access](kubernetes/untitled/rbac/cross-namespaced-access.md)
   * [Patching Object](kubernetes/untitled/patching-object/README.md)
     * [Restrict Key](kubernetes/untitled/patching-object/restrict-key.md)
+  * [Copy Object](kubernetes/untitled/copy-object.md)
 
 ## Git
 
