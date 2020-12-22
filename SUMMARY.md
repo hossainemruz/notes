@@ -64,6 +64,8 @@
 
 ## Database
 
+* [PostgreSQL](database/postgresql/README.md)
+  * [Tricks & Tips](database/postgresql/tricks-and-tips.md)
 * [MySQL](database/mysql/README.md)
   * [Tips & Tricks](database/mysql/tips-and-tricks.md)
 
