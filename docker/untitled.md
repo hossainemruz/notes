@@ -30,5 +30,10 @@ $ docker images | grep none | awk '{print $3}'
 $ docker rmi -f (docker images | grep none | awk '{print $3}')
 ```
 
+5. Free disk taken by docker images, volume etc.  
 
+
+```bash
+docker system prune --all
+```
 
