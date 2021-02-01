@@ -61,6 +61,7 @@
   * [Basics](linux/untitled/basics.md)
   * [How To?](linux/untitled/how-to.md)
   * [Pipe](linux/untitled/pipe.md)
+  * [Tips & Tricks](linux/untitled/tips-and-tricks.md)
 
 ## Security
 
