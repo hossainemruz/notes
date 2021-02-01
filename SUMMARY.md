@@ -12,10 +12,10 @@
 * [Design Patterns](go/design-patterns.md)
 * [Guidelines](go/guidelines/README.md)
   * [Code Review and Comments](go/guidelines/code-review-and-comments.md)
-* [Tips & Tricks](go/tips-and-tricks/README.md)
-  * [Conversion](go/tips-and-tricks/conversion/README.md)
-    * [map\[string\]interface{} to JSON](go/tips-and-tricks/conversion/map-string-interface-to-json.md)
-    * [map\[string\]interface{} to struct](go/tips-and-tricks/conversion/map-string-interface-to-struct.md)
+* [Conversion](go/conversion/README.md)
+  * [map\[string\]interface{} to JSON](go/conversion/map-string-interface-to-json.md)
+  * [map\[string\]interface{} to struct](go/conversion/map-string-interface-to-struct.md)
+* [Tips & Tricks](go/tips-and-tricks.md)
 
 ## Docker
 
